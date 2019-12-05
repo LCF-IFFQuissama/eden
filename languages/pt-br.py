@@ -3716,7 +3716,6 @@
 'Telephony': 'Telefonia',
 'Temp folder %s not writable - unable to apply theme!': 'PASTA Temp%s não gravável-impossível aplicar tema!',
 'Template file %s not readable - unable to apply theme!': 'Modelo% arquivo não é Legível-impossível aplicar tema!',
-'Templates': 'Modelos',
 'Term for the fifth-level within-country administrative division (e.g. a voting or postcode subdivision). This level is not often used.': 'Termo para o 5º nível de divisão administrativa nacional (por exemplo, uma subdivisão de código postal ou de zona de votação). Este nível não é frequentemente utilizado.',
 'Term for the fourth-level within-country administrative division (e.g. Village, Neighborhood or Precinct).': 'Termo para o 4º nível de divisão administrativa nacional(por exemplo, vila, bairro ou distrito).',
 'Term for the primary within-country administrative division (e.g. State or Province).': 'Prazo para a principal divisão administrativa dentro do país (i.e. Estado ou Distrito).',
